@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jongwon-github&repo=jongwon-github)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jongwon-github&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jongwon-github/jongwon-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
