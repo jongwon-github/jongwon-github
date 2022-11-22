@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon-github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jongwon-github/jongwon-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
