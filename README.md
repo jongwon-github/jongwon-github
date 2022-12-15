@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-SPRING%20CLOUD-6DB33F?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge&logoColor=white">
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongwon)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jongwon-github/jongwon-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
